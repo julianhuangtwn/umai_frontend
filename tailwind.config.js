@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        umai_green: "#7CDB54"
+        umai_green: "#7CDB54",
+        umai_dark_green: "#3A8D2D"
       }
     },
   },
