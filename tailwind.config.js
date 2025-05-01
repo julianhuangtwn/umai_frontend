@@ -8,7 +8,10 @@ module.exports = {
     extend: {
       colors: {
         umai_green: "#7CDB54",
-        umai_dark_green: "#3A8D2D"
+        umai_dark_green: "#6cc04a "
+      },
+      fontFamily: {
+        playfair: ["Playfair Display", "serif"]
       }
     },
   },
